@@ -14,7 +14,7 @@ module.exports = {
   coveragePathIgnorePatterns: ['/node_modules/', path.join(__dirname, 'build')],
   testMatch: [
     path.join(__dirname, 'tests/**/*.test.ts'),
-     path.join(__dirname, 'tests/**/*.test.tsx'),
+    path.join(__dirname, 'tests/**/*.test.tsx'),
     path.join(__dirname, 'src/**/*.test.ts'),
     path.join(__dirname, 'src/**/*.test.tsx'),
   ],

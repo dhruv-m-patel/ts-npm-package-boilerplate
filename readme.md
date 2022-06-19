@@ -1,3 +1,3 @@
 # ts-npm-package-boilerplate
 
-A boilerplate node-package for writing reusable package for services
+A boilerplate to build npm package with typescript
